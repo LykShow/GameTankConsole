@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTank", "GameTank\GameTank.csproj", "{DE4A5E9B-31B9-4286-AF76-211709A91F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4A5E9B-31B9-4286-AF76-211709A91F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4A5E9B-31B9-4286-AF76-211709A91F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4A5E9B-31B9-4286-AF76-211709A91F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4A5E9B-31B9-4286-AF76-211709A91F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {312D1650-E9EF-4F1C-8EF3-70CECA7A2EF8}
+	EndGlobalSection
+EndGlobal
